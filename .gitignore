@@ -1,0 +1,8 @@
+node_modules/
+
+# Mac
+.DS_Store
+
+# 各種IDE設定
+.idea
+/.vscode
