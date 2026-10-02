@@ -1,11 +1,13 @@
 {
   "compilerOptions": {
+    "lib": ["ES2022"],
     "allowJs": true,
-    "checkJs": false,
+    "checkJs": true,
     "noEmit": true,
     "strict": true,
     "module": "NodeNext",
     "moduleResolution": "NodeNext",
+    "forceConsistentCasingInFileNames": true,
     "target": "ES2022"
   },
   "include": [
